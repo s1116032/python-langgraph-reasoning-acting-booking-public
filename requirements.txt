@@ -1,0 +1,11 @@
+# Streamlit 聊天介面
+streamlit==1.66.1
+
+# LangChain 核心訊息與工具格式
+langchain-core==1.7.0
+
+# Ollama / ChatOllama 整合
+langchain-ollama==1.1.0
+
+# LangGraph ReAct Agent (內建包含 create_react_agent)
+langgraph==1.2.17
